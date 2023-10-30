@@ -1,9 +1,14 @@
 # Spring PetClinic Sample Application  
-# With simple modification by EmAdd9
+# Modified By DevOps Shack  https://www.youtube.com/@devopsshack
+
+[![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=spring-petclinic_spring-framework-petclinic&metric=alert_status)](https://sonarcloud.io/dashboard?id=spring-petclinic_spring-framework-petclinic)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=spring-petclinic_spring-framework-petclinic&metric=coverage)](https://sonarcloud.io/dashboard?id=spring-petclinic_spring-framework-petclinic)
 
 This project allows the Spring community to maintain a Petclinic version with a plain old **Spring Framework configuration**
 and with a **3-layer architecture** (i.e. presentation --> service --> repository).
 The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggregate-oriented domain]([https://github.com/spring-projects/spring-petclinic/pull/200). 
+
 
 ## Understanding the Spring Petclinic application with a few diagrams
 
@@ -221,5 +226,6 @@ The [issue tracker](/issues) is the preferred channel for bug reports, features 
 
 For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
-# Acknowledgement
-Acknowledging the contributions of [Spring Project](https://github.com/spring-projects/spring-petclinic.git) , [Aditya Jaiswal](https://github.com/jaiswaladi246/Petclinic.git) and all other open-source contributors to the original project. This fork aims to extend their excellent work, and I'm honored to recognize their impact on its development.
+
+
+

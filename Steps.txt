@@ -171,6 +171,7 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 
 
+
 ---TRIVY INSTALLATION STEPS---
 
 sudo apt-get install wget apt-transport-https gnupg lsb-release
@@ -182,4 +183,3 @@ echo "deb [signed-by=/usr/share/keyrings/trivy.gpg] https://aquasecurity.github.
 sudo apt-get update
 
 sudo apt-get install trivy -y
-
